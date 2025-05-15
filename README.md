@@ -12,7 +12,7 @@ If you find this project useful in your research, please consider citing:
 
 [2] H. Wu, Z. Du, D. Zhong, Y. Wang and C. Tao, "FSVLM: A Vision-Language Model for Remote Sensing Farmland Segmentation," in IEEE Transactions on Geoscience and Remote Sensing, vol. 63, pp. 1-13, 2025, Art no. 4402813, doi: 10.1109/TGRS.2025.3532960.
 
-[3]Haiyang Wu, Weiliang Mu, Dandan Zhong, Zhuofei Du, Haifeng Li, Chao Tao, FarmSeg_VLM: A farmland remote sensing image segmentation method considering vision-language alignment, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 225, 2025,Pages 423-439.
+[3] Haiyang Wu, Weiliang Mu, Dandan Zhong, Zhuofei Du, Haifeng Li, Chao Tao, FarmSeg_VLM: A farmland remote sensing image segmentation method considering vision-language alignment, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 225, 2025,Pages 423-439.
 ```
 
 ## Acknowledgement
